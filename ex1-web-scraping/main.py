@@ -2,6 +2,21 @@ import zipfile
 import os
 
 def zipPDF(inputFolder, outputZip):
+
+    """
+    Compacta todos os arquivos PDF de uma pasta de entrada em um arquivo ZIP.
+
+    Esta função percorre recursivamente a pasta de entrada, localiza todos os arquivos
+    com extensão .pdf (case insensitive) e os compacta em um arquivo ZIP no local especificado.
+
+    Parâmetros:
+        inputFolder (str): Caminho da pasta contendo os arquivos PDF a serem compactados.
+        outputZip (str): Caminho completo do arquivo ZIP de saída a ser criado.
+
+    Retorno:
+        None: A função não retorna valores, mas pode imprimir mensagens de status/erro.
+    """
+    
     # Verifica se a pasta de entrada existe
     if not os.path.exists(inputFolder):
         print(f"Erro: Pasta '{inputFolder}' não encontrada!")
