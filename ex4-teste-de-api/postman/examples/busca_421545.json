@@ -1,0 +1,29 @@
+{
+    "total": 1,
+    "page": 1,
+    "page_size": 10,
+    "results": [
+        {
+            "Registro_ANS": 421545,
+            "CNPJ": 22869997000153,
+            "Razao_Social": "2B ODONTOLOGIA OPERADORA DE PLANOS ODONTOLÓGICOS LTDA",
+            "Nome_Fantasia": null,
+            "Modalidade": "Odontologia de Grupo",
+            "Logradouro": "RUA CATÃO",
+            "Numero": "128",
+            "Complemento": "SALA 126",
+            "Bairro": "VILA ROMANA",
+            "Cidade": "São Paulo",
+            "UF": "SP",
+            "CEP": 5049000,
+            "DDD": 11.0,
+            "Telefone": 34415852.0,
+            "Fax": null,
+            "Endereco_eletronico": "labmarisol@gmail.com",
+            "Representante": "MARISOL BECHELLI",
+            "Cargo_Representante": "SÓCIO ADMINISTRADORA",
+            "Regiao_de_Comercializacao": 4.0,
+            "Data_Registro_ANS": "2019-06-13"
+        }
+    ]
+}

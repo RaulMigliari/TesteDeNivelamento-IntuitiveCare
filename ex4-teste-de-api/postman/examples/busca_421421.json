@@ -1,0 +1,29 @@
+{
+    "total": 1,
+    "page": 1,
+    "page_size": 10,
+    "results": [
+        {
+            "Registro_ANS": 421421,
+            "CNPJ": 27452545000195,
+            "Razao_Social": "2CARE OPERADORA DE SAÚDE LTDA.",
+            "Nome_Fantasia": null,
+            "Modalidade": "Medicina de Grupo",
+            "Logradouro": "RUA: BERNARDINO DE CAMPOS",
+            "Numero": "230",
+            "Complemento": "1º ANDAR",
+            "Bairro": "CENTRO",
+            "Cidade": "Campinas",
+            "UF": "SP",
+            "CEP": 13010151,
+            "DDD": 19.0,
+            "Telefone": 37901224.0,
+            "Fax": null,
+            "Endereco_eletronico": "ans.plano@hospitalcare.com.br",
+            "Representante": "RODRIGO PINHO RIBEIRO",
+            "Cargo_Representante": "REPRESENTANTE",
+            "Regiao_de_Comercializacao": 5.0,
+            "Data_Registro_ANS": "2018-10-09"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+	"info": {
+		"_postman_id": "aecde0cd-07cf-49a2-97cb-99c77dee366b",
+		"name": "API de Busca",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43618161"
+	},
+	"item": [
+		{
+			"name": "Buscar Operadora Específica",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/buscar?query=419761&page=1&page_size=10",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"buscar"
+					],
+					"query": [
+						{
+							"key": "query",
+							"value": "419761"
+						},
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "page_size",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
